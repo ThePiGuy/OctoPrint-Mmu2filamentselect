@@ -1,5 +1,7 @@
 # OctoPrint-Mmu2filamentselect
 
+**This repository has moved** to https://github.com/tkoecker/OctoPrint-Mmu2filamentselect, as it was abandoned. Please submit issues and push changes to this new actively-maintained repository.
+
 <img src="https://raw.githubusercontent.com/derpicknicker1/OctoPrint-Mmu2filamentselect/pics/octoprusa.png" width="25%" align="left"> 
 
 This plugin shows a dialog to select the filament when a print on a Prusa printer with MMU2 is startet in single mode.
